@@ -76,6 +76,3 @@ This project is open-source and free to use for educational or personal purposes
 We know a web app can’t solve every problem — but it can help in the moments that matter.
 If even one person feels a little safer using this, it’s a win.
 
----
-
-📌 Replace `YOUR_USERNAME` with your actual GitHub username in the Git clone URL.
